@@ -1,0 +1,163 @@
+[
+    {
+        "id_questionnaire": 1,
+        "name": "Sandra's TFG Questionnaire",
+        "description": "The questions of the daily questionnaire have been carefully selected from different standardized questionnaires: PSQI, IPAQ-SF, UCLA, PANAS and NASA-TLX, adapting some answers to refer to the current day rather than covering a longer period.",
+        "questions": [
+            {
+                "id_question": "question_1",
+                "text": "How would you rate the quality of last night's sleep?", 
+                "answers": [
+                    "Very good", 
+                    "Quite good", 
+                    "Neither good nor bad", 
+                    "Quite bad", 
+                    "Very bad"
+                ] 
+            },
+            {
+                "id_question": "question_2",
+                "text": "How long (in minutes) did it take you to fall asleep last night?",
+                "answers": [
+                    "<= 15 minutes", 
+                    "16-30 minutes", 
+                    "31-45 minutes", 
+                    "46-60 minutes", 
+                    "> 60 minutes"
+                ] 
+            },
+            {
+                "id_question": "question_3",
+                "text": "How many times throughout the day have you had difficulties staying awake? (e.g., during class, work, meals, social activities, or driving)",
+                "answers": [
+                    "None", 
+                    "One", 
+                    "Two", 
+                    "Three", 
+                    "More than three"
+                ] 
+            },
+            {
+                "id_question": "question_4",
+                "text": "Did you engage in any form of exercise today? (excluding walking; e.g., running, cycling, any sports)",
+                "answers": [
+                    "No", 
+                    "I wanted to exercise, but I didn't have time", 
+                    "Yes, less than 30 minutes", 
+                    "Yes, between 30 minutes and 1 hour", 
+                    "Yes, more than 1 hour"
+                ] 
+            },
+            {
+                "id_question": "question_5",
+                "text": "How much time have you spent sitting today? (Include time spent at work, at home, while doing chores, and during leisure time; e.g., sitting at a desk/table, at a bar with friends, reading, watching television...)",
+                "answers": [
+                    "Less than 1 hour", 
+                    "Between 1 and 2 hours", 
+                    "Between 2 and 4 hours", 
+                    "Between 4 and 6 hours", 
+                    "More than 6 hours"
+                ] 
+            },
+            {
+                "id_question": "question_6",
+                "text": "Rate on a scale of 1-5 how you have felt throughout the day:\nI have felt in harmony with the people around me:",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },
+            {
+                "id_question": "question_7",
+                "text": "Rate on a scale of 1-5 how you have felt throughout the day:\nI have felt lonely:",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },
+            {
+                "id_question": "question_8",
+                "text": "Rate on a scale of 1-5 how you are feeling right now:\nStressed:",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },
+            {
+                "id_question": "question_9",
+                "text": "Rate on a scale of 1 (very low) to 5 (very high) the demands of your workload today:\nMENTAL DEMAND:\nHow much mental and perceptual activity was required? (e.g., thinking, deciding, calculating, remembering, searching, investigating, etc.) Was it an easy or difficult task, simple or complex, heavy or light?",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },
+            {
+                "id_question": "question_10",
+                "text": "Rate on a scale of 1 (very low) to 5 (very high) the demands of your workload today:\nPHYSICAL DEMAND:\nHow much physical activity was required? (e.g., pushing, pulling, turning, pressing, operating, etc.) Was it an easy or difficult task, slow or fast, relaxed or strenuous?",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },
+            {
+                "id_question": "question_11",
+                "text": "Rate on a scale of 1 (very low) to 5 (very high) the demands of your workload today:\nTIME DEMAND:\nHow much time pressure did you feel due to the pace at which tasks or task elements were occurring? Was the pace slow and leisurely or fast and frantic?",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },
+            {
+                "id_question": "question_12",
+                "text": "Rate on a scale of 1 (very low) to 5 (very high) the demands of your workload today:\nEFFORT:\nTo what extent did you have to work to achieve your level of results?",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },{
+                "id_question": "question_13",
+                "text": "Rate on a scale of 1 (very low) to 5 (very high) the demands of your workload today:\nPERFORMANCE:\nTo what extent do you believe you have been successful in the objectives set by your boss, supervisor, or yourself? How satisfied are you with your level of performance?",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            },
+            {
+                "id_question": "question_14",
+                "text": "Rate on a scale of 1 (very low) to 5 (very high) the demands of your workload today:\nFRUSTRATION LEVEL:\nDuring the task, to what extent have you felt secure, content, relaxed, and satisfied?",
+                "answers": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ] 
+            }
+        
+        ]
+    }
+]
