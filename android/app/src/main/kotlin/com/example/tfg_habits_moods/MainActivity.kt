@@ -1,4 +1,4 @@
-package com.example.mood_habit_tracking_tfg
+package com.example.tfg_habits_moods
 
 import io.flutter.embedding.android.FlutterActivity
 

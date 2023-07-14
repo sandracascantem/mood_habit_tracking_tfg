@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="mood_habit_tracking_tfg"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tfg_habits_moods">
+   <application
+        android:label="tfg_habits_moods"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
